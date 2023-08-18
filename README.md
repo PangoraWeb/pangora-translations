@@ -1,6 +1,8 @@
-# lemmy-translations
+# Pippit Translations
 
-A store for lemmy's translations in i18n json format.
+A store for pippit's translations in i18n json format.
+
+Includes work done for [lemmy-translations](https://github.com/LemmyNet/lemmy-translations) shared under AGPL-3.0
 
 ---
 
