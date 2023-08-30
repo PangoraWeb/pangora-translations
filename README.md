@@ -6,10 +6,10 @@ Includes work done for [lemmy-translations](https://github.com/LemmyNet/lemmy-tr
 
 ## Contact
 
-- [Matrix Space](https://matrix.to/#/#pippit:matrix.org)
-- [Matrix Translations Room](https://matrix.to/#/#pippit-translations:matrix.org)
-- [Pippit Support Forum](https://programming.dev/c/pippit)
+- [Matrix Space](https://matrix.to/#/#pangora:matrix.org)
+- [Matrix Translations Room](https://matrix.to/#/#pangora-translations:matrix.org)
+- [Pangora Support Forum](https://programming.dev/c/pangora)
 
 ---
 
-**Pippit Translations** are made by **Weblate** on this site: [To be added]
+**Pangora Translations** are made by **Weblate** on this site: [To be added]
